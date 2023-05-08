@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GridApp</string>
+    <string name="merge">Merge</string>
+    <string name="title">Select And Merge</string>
+</resources>
